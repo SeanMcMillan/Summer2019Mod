@@ -1,0 +1,10 @@
+{
+  "result": {"item": "summer:block_ruby"},
+  "pattern": ["rrr","rrr","rrr"],
+  "type": "forge:ore_shaped",
+  "key": {
+    "r": {
+      "item": "summer:item_ruby"
+    }
+  }
+}

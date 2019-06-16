@@ -1,0 +1,5 @@
+{
+  "result": {"item": "summer:item_ruby", "count":9},
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{"item": "summer:block_ruby"}]
+}
